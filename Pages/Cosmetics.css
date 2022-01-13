@@ -1,0 +1,21 @@
+.card:hover {
+background-color: lightblue;
+font-size: 15px;
+
+}
+.button5:hover {
+    background-color: lightcoral;
+}
+
+.img6 {
+    width: 250px;
+    height: 150px;
+    
+}
+.img6:hover {
+    width: 270px;
+ }
+
+.button5 {
+    background-color: lightcoral;
+}

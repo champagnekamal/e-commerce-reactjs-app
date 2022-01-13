@@ -1,0 +1,86 @@
+.header {
+    display: flex;
+    background-color: lightgreen;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    }
+    
+    .item {
+        
+      font-size: 15px;
+        background-color: lightgreen;
+        margin: 12px;
+        width: 100px;
+        color: red;
+        
+        
+    }
+    .item:hover{
+        color: blue;
+    }
+    .button1:hover{
+        color: blue;
+        background-color: lightcoral;
+    
+    }
+    .link {
+        text-decoration: none;
+        color: red;
+    }
+    .button1 {
+        margin-left: 0%;
+        background-color: lightblue;
+        height: 40px;
+        width: 50px;
+        
+    }
+    .nav-link {
+        text-decoration: none;
+        color: lightblue;
+    }
+    span {
+        margin-top: 10px;
+    }
+    .link2 {
+        text-decoration: none;
+    }
+    .input1 {
+        border-radius: 5px;
+        width: 500px;
+        height: 40px;
+
+    }
+    .homeimage {
+        width: 90%;
+        margin-left: 20px;
+    }
+    .homeimage:hover {
+        width: 90%;
+    }
+    
+    
+
+    .list {
+        
+        height: 100%;
+        width: 100px;
+        background-color: lightslategray;
+        float: left;
+    }
+   
+       
+    
+    .side {
+        padding: 12px;
+        padding-top: 20px;
+         text-align: center;
+      }
+      .button2 {
+          width: 80px;
+          border-radius: 10px;
+          height: 50px;
+      }
+      .button2:active {
+          background-color: black;
+      }

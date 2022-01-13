@@ -1,0 +1,19 @@
+.signin {
+    justify-content: center;
+    margin-left: 40%;
+    margin-top: 10%;
+    width: 300px;
+    text-align: center;
+    border: 2px solid red;
+    padding: 25px;
+    border-radius: 20px;
+    background-color: lightsalmon;
+}
+.submit {
+    background-color: black;
+    color: white;
+}
+.submit:hover {
+    width: 80px;
+    height: 30px;
+}

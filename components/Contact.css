@@ -1,0 +1,13 @@
+
+.contact {
+    position: fixed;
+    margin-left: 35%;
+    background-color: lightgrey;
+    height: 300px;
+    border: 2px solid ;
+    border-radius: 5px;
+    width: 500px;
+    text-align: center;
+    padding: 15px;
+    margin-top: 100px;
+}
